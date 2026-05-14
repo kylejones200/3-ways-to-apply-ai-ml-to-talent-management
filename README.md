@@ -1,7 +1,7 @@
 # 3 ways to apply AI ML to Talent Management
 
-**Published:** 2022-09-20
-**Medium:** [https://medium.com/@kyle-t-jones/3-ways-to-apply-ai-ml-to-talent-management-31446a5af39c](https://medium.com/@kyle-t-jones/3-ways-to-apply-ai-ml-to-talent-management-31446a5af39c)
+Published: 2022-09-20
+Medium: [https://medium.com/@kyle-t-jones/3-ways-to-apply-ai-ml-to-talent-management-31446a5af39c](https://medium.com/@kyle-t-jones/3-ways-to-apply-ai-ml-to-talent-management-31446a5af39c)
 
 ## About
 
