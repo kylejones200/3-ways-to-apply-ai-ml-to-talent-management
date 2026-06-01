@@ -11,14 +11,7 @@ A higher degree of productivity at a lower level can result in exceeding output 
 
 Developing a data mining framework is the first step towards the evaluation process. Many industries-tested techniques are available for data mining. These classification techniques include but are not limited to the fuzzy set approach, genetic algorithms, decision trees, support vector machines, rough set theory, and neural networks. The decision tree data mining framework is widely accepted due to its accurate output. A decision tree works by generating a tree and a set of rules about any given dataset. The following is a work breakdown structure for any type of data mining.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
